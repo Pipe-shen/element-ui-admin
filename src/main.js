@@ -12,6 +12,9 @@ import './utils/components'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 
+import 'normalize.css/normalize.css'
+import './assets/css/main.css'
+
 Vue.use(ElementUI)
 
 Vue.config.productionTip = false
